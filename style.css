@@ -1,9 +1,9 @@
 body {
     font-family: 'Courier New', Courier, monospace;
-    margin: 20px;
-    padding: 0px;
-    background-color: #ecece7;
-    color: #333;
+    margin: 15px;
+    padding: 40px;
+    background-color: #f0f0e2;
+    color: #080808;
 }
 body, button {
     font-size: var(--font-size);
@@ -47,9 +47,7 @@ html {
     --secondary: #e9db14;
     --radius: 10px;
 }
-#container {
-    width: 100%;
-    height: 100%;
+#imagem {
     display: flex;
     justify-content: center;
 }
