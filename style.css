@@ -1,8 +1,8 @@
 body {
-    background-color:  #b3c46a;
-    font-family: 'Courier New', Courier, monospace;
+    background-color: white;
+    font-family: 'Poppins', sans-serif;
     font-size: 20px;
-    text-align: justify;  
+    text-align: justify;
 }
 button.primary {
     background-color:  #2069c9;
@@ -13,13 +13,15 @@ button {
     height: 50px;
     width: 175px;
 }
-#imagem {
-    height: 400px;
-    width: 400px;
-    display: flex;
-    justify-content: center;
-}
-#email {
+.email {
     height: 40px;
     width: 40px;
+}
+.texto {
+    float: left;
+    width: 50%;
+}
+.imagem {
+    float: right;
+    width: 40%;
 }
