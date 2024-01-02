@@ -3,6 +3,9 @@ body {
     font-family: 'Poppins', sans-serif;
     font-size: 20px;
     text-align: justify;
+    user-select: none;
+    margin-left: 50px;
+    padding-top: 20px;
 }
 button.primary {
     background-color:  #2069c9;
