@@ -5,3 +5,5 @@ Esse site servirá de portifólio para quem quiser me conhecer um pouco mais.
 Antes de iniciar o site inicial, observei alguns sites estáticos que pude buscar na internet.
 Observei tamanhos, descrições, tipos de fontes, figuras de mídias sociais, entre outros.
 Tentei simplificar bastante os códigos, de uma forma como meu professor uma vez falou na aula, tem que haver a semântica para melhor entendimento na visão de quem vai olhar seus dados.
+## finalizado e publicado o site no GitHub
+Consegui publicar o site estático como treinamento de HTML e CSS, porém preciso melhorá-lo para visualização em Mobile.
