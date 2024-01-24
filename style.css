@@ -11,6 +11,7 @@ button.primary {
     background-color:  #2069c9;
     color: #f8f3f3;;
     font-size: medium;
+    cursor: pointer;
 }
 button {
     height: 50px;
